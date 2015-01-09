@@ -1,8 +1,8 @@
 ---
 
 layout: meeting
-title: Mobile Warsaw
-date: 
+title: Mobile Warsaw #20
+date: 2014-12-15 18:00:00
 meetup_type: normal
 
 speakers:
@@ -14,8 +14,6 @@ meetup_link: http://www.meetup.com/Mobile-Warsaw/events/218611628/
 place_name: TBA
 place_address:
 place_gmaps_url:
-
-meetup_no: 20
 
 agenda:
 - time_span: "18:00-18:15"
